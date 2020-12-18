@@ -13,7 +13,7 @@
         android:id="@+id/noPermissionMessage"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/camera_permission_not_allowed"
+        android:text="No permission"
         android:textAlignment="center" />
 
 </androidx.appcompat.widget.LinearLayoutCompat>
